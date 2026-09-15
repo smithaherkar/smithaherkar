@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech in Computer Engineering (AI) @ G H Raisoni College of Engineering and Management, Pune<br>🤖 Building end-to-end ML systems — from data pipelines to deployed APIs<br>🛠️ Currently building **Vendor Intelligence** — an invoice risk & freight prediction system using scikit-learn, FastAPI, and PostgreSQL<br>📚 Exploring **RAG (Retrieval-Augmented Generation)** for a legal document Q&A chatbot<br>💡 Interested in machine learning, backend engineering, and applied AI<br>🎨 Training Coordinator @ AR/VR Club, GHRCEM — organized 3+ technical workshops<br>📫 Reach me at smithaherkar@gmail.com<br>⚡ Fun fact: I like turning messy data into things that actually predict something useful
+🎓 B.Tech in Computer Engineering (AI) @ G H Raisoni College of Engineering and Management, Pune<br>🤖 Building end-to-end ML systems — from data pipelines to deployed APIs<br>🛠️ Currently building **Vendor Intelligence** — an invoice risk & freight prediction system using scikit-learn, FastAPI, and PostgreSQL<br>📚 Exploring **RAG (Retrieval-Augmented Generation)** for a legal document Q&A chatbot<br>💡 Interested in machine learning, backend engineering, and applied AI<br>🎨 Training Coordinator @ AR/VR Club, GHRCEM — organized 3+ technical workshops<br>📫 Reach me at smithaherkar@gmail.com<br> 
 
 
 ## 🌐 Socials:
