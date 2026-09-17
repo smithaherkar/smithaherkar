@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech in Computer Engineering (AI) @ G H Raisoni College of Engineering and Management, Pune<br>🤖 Building end-to-end ML systems — from data pipelines to deployed APIs<br>🛠️ Currently building **Vendor Intelligence** — an invoice risk & freight prediction system using scikit-learn, FastAPI, and PostgreSQL<br>📚 Exploring **RAG (Retrieval-Augmented Generation)** for a legal document Q&A chatbot<br>💡 Interested in machine learning, backend engineering, and applied AI<br>🎨 Training Coordinator @ AR/VR Club, GHRCEM — organized 3+ technical workshops<br>📫 Reach me at smithaherkar@gmail.com<br> 
+🎓 B.Tech in Computer Engineering (AI) @ G H Raisoni College of Engineering and Management, Pune<br>🤖 Building end-to-end ML systems — from data pipelines to deployed APIs<br>🛠️ Currently building **Vendor Intelligence** — an invoice risk & freight prediction system using scikit-learn, FastAPI, and PostgreSQL<br>📚 Exploring **RAG (Retrieval-Augmented Generation)** <br>💡 Interested in machine learning, backend engineering, and applied AI<br>🎨 Training Coordinator @ AR/VR Club, GHRCEM — organized 3+ technical workshops<br>📫 Reach me at smithaherkar@gmail.com<br> 
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=smithaherkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=smithaherkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=smithaherkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smithaherkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
